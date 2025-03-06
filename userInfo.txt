@@ -1,0 +1,22 @@
+ID Number: 620162763
+Password: 123456789
+Name: Trevaughn Johnson
+Age: 20
+Gender: Male
+Role: Student
+---------------------------------
+ID Number: 123
+Password: 123
+Name: trev john
+Age: 2
+Gender: Male
+Role: Teacher
+---------------------------------
+
+ID Number: 1800
+Password: qwert
+Name: Paul Matthews 
+Age: 45
+Gender: Male
+Role: Teacher
+---------------------------------
